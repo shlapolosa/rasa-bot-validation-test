@@ -1,2 +1,3 @@
 # rasa-bot-validation-test
-AppContainer for rasa validation test
+
+CLAUDE.md-compliant microservice application container.
